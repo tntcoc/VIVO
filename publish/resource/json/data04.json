@@ -1,0 +1,172 @@
+{
+    "data": {
+        "actSkuInfoVos": [
+            {
+                "spuId": 10000534,
+                "skuId": 100739,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/34/10000534_1561601930296_750x750.png",
+                "skuName": "vivo X27 8GB+256GB 雀羽蓝",
+                "actPrice": 2498,
+                "marketPrice": 2798,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190614/d64556c88a9ef239e2779a320ec1102c.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "官网独家镭雕定制服务！"
+            },
+            {
+                "spuId": 10001303,
+                "skuId": 101660,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/03/10001303_1588754682402_750x750.png",
+                "skuName": "vivo 2A USB数据线",
+                "actPrice": 9,
+                "marketPrice": 19,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190709/752f8c1ebafaea273f312dd673847c5e.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "5折秒杀"
+            },
+            {
+                "spuId": 10005597,
+                "skuId": 118441,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/58/10000958_1571535768234_750x750.png",
+                "skuName": "vivo Y3 4GB+64GB版 墨黛蓝",
+                "actPrice": 999,
+                "marketPrice": 1098,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190614/d64556c88a9ef239e2779a320ec1102c.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "享3期免息，vivo老用户咨询客服加赠XE710耳机"
+            },
+            {
+                "spuId": 10000539,
+                "skuId": 100756,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/39/10000539_1589024324967_750x750.png",
+                "skuName": "iQOO 4A Type-C数据线",
+                "actPrice": 29,
+                "marketPrice": 59,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190709/752f8c1ebafaea273f312dd673847c5e.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "5折秒杀"
+            },
+            {
+                "spuId": 10000889,
+                "skuId": 101070,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/89/10000889_1588766421479_750x750.png",
+                "skuName": "iQOO 原装保护膜",
+                "actPrice": 14,
+                "marketPrice": 29,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190709/752f8c1ebafaea273f312dd673847c5e.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "5折秒杀"
+            },
+            {
+                "spuId": 10000996,
+                "skuId": 101252,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/96/10000996_1588832239022_750x750.png",
+                "skuName": "iQOO 软边透明保护壳",
+                "actPrice": 25,
+                "marketPrice": 39,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "直降14元"
+            },
+            {
+                "spuId": 10002170,
+                "skuId": 103559,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/70/10002170_1585378156682_750x750.png",
+                "skuName": "iQOO 3 原装保护膜",
+                "actPrice": 9.9,
+                "marketPrice": 29,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/af66e7f1b94841b9ad1afde83e679a50.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "9.9元秒杀"
+            },
+            {
+                "spuId": 10005700,
+                "skuId": 118707,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/00/10005700_1597040669612_750x750.png",
+                "skuName": "vivo Y51s 磨砂保护壳 黑",
+                "actPrice": 19,
+                "marketPrice": 29,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "直降10元"
+            },
+            {
+                "spuId": 10005645,
+                "skuId": 118547,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/45/10005645_1595842425253_750x750.png",
+                "skuName": "vivo Y70s磨砂保护壳 粉色",
+                "actPrice": 17,
+                "marketPrice": 29,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190706/4cb05e7cf162e561b56791cec7c2a5d7.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "6折秒杀"
+            },
+            {
+                "spuId": 10002885,
+                "skuId": 105175,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/85/10002885_1592402498422_750x750.png",
+                "skuName": "VH 悠 FO3便携式手持风扇 珊瑚红",
+                "actPrice": 39,
+                "marketPrice": 49,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190716/78d0b98a23166f047599cdcfe42167ac.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "8折秒杀"
+            },
+            {
+                "spuId": 10002889,
+                "skuId": 105181,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/89/10002889_1592408202417_750x750.png",
+                "skuName": "小天才儿童电话手表 Q2 蓝色",
+                "actPrice": 768,
+                "marketPrice": 848,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "直降30元，限量5件"
+            },
+            {
+                "spuId": 10000957,
+                "skuId": 101191,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/57/10000957_1588823592835_750x750.png",
+                "skuName": "QCY Q12 迷你单耳蓝牙耳机 黑色",
+                "actPrice": 59,
+                "marketPrice": 89,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "直降30元"
+            },
+            {
+                "spuId": 10000227,
+                "skuId": 100261,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/27/10000227_1545999758575_750x750.png",
+                "skuName": "Sleepace 香薰助眠唤醒灯",
+                "actPrice": 249,
+                "marketPrice": 349,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190701/cf8f9f07dc1b4224b661b21e358e69b0.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "直降100元，限量5件"
+            },
+            {
+                "spuId": 10000483,
+                "skuId": 100615,
+                "skuImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/36/10000136_1544599155182_750x750.png",
+                "skuName": "须眉 便携式剃须刀ST-R101",
+                "actPrice": 129,
+                "marketPrice": 149,
+                "cornerImg": "https://vivoshop-vivofs.vivo.com.cn/vivoshop/actcorner/20190523/d028e9b755f541a0fd37ebe63a28db68.png_w530-h530.png",
+                "redirectUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+                "promotion": "直降20元"
+            }
+        ],
+        "timeVo": {
+            "currentTime": "1598495062624",
+            "startTime": "1598493600000",
+            "endTime": "1598529599000",
+            "nexStartTime": "20:00"
+        },
+        "tapUrlVo": {
+            "currentTapUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1017",
+            "nextTapUrl": "https://topic.vivo.com.cn/activity/link/PCms?secChannel=2&tabId=1018"
+        }
+    },
+    "code": 0,
+    "msg": "成功"
+}

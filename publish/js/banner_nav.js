@@ -1,0 +1,1 @@
+"use strict";window.onload=function(){var e=new XMLHttpRequest;e.open("get","../json/data02.json"),e.send(null),e.onload=function(){if(200==e.status)for(var n=JSON.parse(e.responseText),o=0;o<n.length;o++)console.log(n[o].name),console.log(n)}};

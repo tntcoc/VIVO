@@ -1,0 +1,378 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "dataList": [
+            {
+                "id": 101948,
+                "skuCode": "513",
+                "skuName": "一年碎屏宝-249元",
+                "relaSpuId": 10001493,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "此服务宝适用于X50 Pro、X50 Pro+机型",
+                "salePrice": 249,
+                "marketPrice": 249,
+                "points": 249,
+                "isDefault": 1,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325192105284_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325192105284_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325192105284_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            },
+            {
+                "id": 101946,
+                "skuCode": "930-601-904",
+                "skuName": "一年V享无忧套装-339元",
+                "relaSpuId": 10001492,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "此服务适用于X50 Pro、NEX 3S和NEX 3、NEX 3 5G和NEX双屏版机型",
+                "salePrice": 339,
+                "marketPrice": 457,
+                "points": 339,
+                "isDefault": 1,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200619150533018_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200619150533018_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200619150533018_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            },
+            {
+                "id": 101225,
+                "skuCode": "921-601-904",
+                "skuName": "一年V享无忧套装-269元",
+                "relaSpuId": 10000990,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "此服务适用于S7、X系列（X50 Pro除外）、iQOO3、iQOO Pro系列、iQOO Neo3、iQOO Neo 855、iQOO Neo855竞速版、iQOO Monster、iQOO和S6、S5、S1 Pro、NEX、NEX旗舰版机型",
+                "salePrice": 269,
+                "marketPrice": 387,
+                "points": 269,
+                "isDefault": 1,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200619150406961_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200619150406961_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200619150406961_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            },
+            {
+                "id": 4486,
+                "skuCode": "918",
+                "skuName": "一年碎屏宝-249元",
+                "relaSpuId": 10081,
+                "promotion": "活动时间：5月13日至8月31日，适用于NEX 3S和NEX 3、NEX 3 5G机型限时折扣促销",
+                "brief": "请您和手机绑定购买或在购机3天内购买",
+                "salePrice": 219,
+                "marketPrice": 249,
+                "points": 219,
+                "isDefault": 0,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325163338849_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325163338849_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325163338849_750x750.jpg"
+                    }
+                ],
+                "corner": {
+                    "thumbnailPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245374667161_100x100.png",
+                    "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245374667161_250x250.png",
+                    "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/corner/20180824/1808245374667161_530x530.png"
+                }
+            },
+            {
+                "id": 100149,
+                "skuCode": "921",
+                "skuName": "一年碎屏宝-179元",
+                "relaSpuId": 10000130,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "此服务适用于S7、X系列（X50 Pro除外）、iQOO3、iQOO Pro系列、iQOO Neo 855、iQOO Neo 855竞速版、iQOO Monster、iQOO和S6、S5、S1 Pro、NEX、NEX旗舰版、NEX双屏版（前屏）机型",
+                "salePrice": 179,
+                "marketPrice": 179,
+                "points": 179,
+                "isDefault": 1,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155747982_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155747982_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155747982_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            },
+            {
+                "id": 100150,
+                "skuCode": "915",
+                "skuName": "一年后盖宝-179元",
+                "relaSpuId": 10000131,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "仅限NEX双屏版购买，可免费更换原装NEX双屏版后屏（5.49英寸）一次",
+                "salePrice": 179,
+                "marketPrice": 179,
+                "points": 179,
+                "isDefault": 1,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155406586_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155406586_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155406586_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            },
+            {
+                "id": 5626,
+                "skuCode": "601",
+                "skuName": "一年后盖宝-79元",
+                "relaSpuId": 10683,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "此服务宝适用于Z6、Z5、iQOO Neo3、Y7s、X系列、iQOO系列、S系列、NEX系列（除双屏版）",
+                "salePrice": 79,
+                "marketPrice": 79,
+                "points": 79,
+                "isDefault": 0,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155134403_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155134403_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155134403_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            },
+            {
+                "id": 4436,
+                "skuCode": "905",
+                "skuName": "一年碎屏宝-129元",
+                "relaSpuId": 10060,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "此服务宝适用于Z系列、Y系列、U系列、S1、iQOO Z1、iQOO Z1x、iQOO U1、iQOO Neo、iQOO Neo3机型(iQOO Neo 855、iQOO Neo 855竞速版不适配）",
+                "salePrice": 129,
+                "marketPrice": 129,
+                "points": 129,
+                "isDefault": 0,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155541629_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155541629_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325155541629_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            },
+            {
+                "id": 1639,
+                "skuCode": "904",
+                "skuName": "一年延保",
+                "relaSpuId": 7,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "享无忧售后服务,延长保修期一年",
+                "salePrice": 129,
+                "marketPrice": 129,
+                "points": 129,
+                "isDefault": 0,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325154550241_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325154550241_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325154550241_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            },
+            {
+                "id": 1638,
+                "skuCode": "903",
+                "skuName": "半年延保",
+                "relaSpuId": 6,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "享无忧售后服务，延长保修期半年",
+                "salePrice": 69,
+                "marketPrice": 69,
+                "points": 69,
+                "isDefault": 0,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325154634320_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325154634320_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200325154634320_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            },
+            {
+                "id": 5628,
+                "skuCode": "905-601-904",
+                "skuName": "一年V享无忧套装-219元",
+                "relaSpuId": 10685,
+                "promotion": "请您和手机绑定购买或在购机3天内购买",
+                "brief": "此服务适用于iQOO Z1、Z6、Z5、iQOO Neo系列和S1系列、Y7s机型",
+                "salePrice": 219,
+                "marketPrice": 337,
+                "points": 219,
+                "isDefault": 0,
+                "disabled": 1,
+                "recommendSkuUrl": null,
+                "images": [
+                    {
+                        "hdPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200619150205689_750x750.jpg",
+                        "smallPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200619150205689_250x250.jpg",
+                        "bigPic": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/20_20200619150205689_750x750.jpg"
+                    }
+                ],
+                "corner": null
+            }
+        ],
+        "pageVo": {
+            "pageNum": 1,
+            "pageSize": 12,
+            "startRow": 1,
+            "endRow": 1,
+            "total": 11,
+            "pages": 0,
+            "reasonable": null,
+            "pageSizeZero": null
+        },
+        "categoryInfo": {
+            "crumbNav": [
+                {
+                    "id": 3,
+                    "name": "服务",
+                    "parentId": 0,
+                    "level": 0,
+                    "cmmdyTypeId": 3,
+                    "image": {
+                        "wapSmallPic": null,
+                        "wapBigPic": null,
+                        "pcSmallPic": null,
+                        "pcBigPic": null
+                    }
+                }
+            ],
+            "firstNav": [
+                {
+                    "id": 1,
+                    "name": "智能手机",
+                    "parentId": 0,
+                    "level": 0,
+                    "cmmdyTypeId": 1,
+                    "image": {
+                        "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530572011hd_120x120.jpg",
+                        "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530572011hd_480x480.jpg",
+                        "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530562353hd_156x50.jpg",
+                        "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530530562353hd_312x100.jpg"
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "配件产品",
+                    "parentId": 0,
+                    "level": 0,
+                    "cmmdyTypeId": 2,
+                    "image": {
+                        "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530529802476hd_120x120.jpg",
+                        "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530529802476hd_480x480.jpg",
+                        "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530529814022hd_156x50.png",
+                        "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530529814022hd_312x100.png"
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "服务",
+                    "parentId": 0,
+                    "level": 0,
+                    "cmmdyTypeId": 3,
+                    "image": {
+                        "wapSmallPic": null,
+                        "wapBigPic": null,
+                        "pcSmallPic": null,
+                        "pcBigPic": null
+                    }
+                }
+            ],
+            "secondNav": [
+                {
+                    "id": 12,
+                    "name": "碎屏宝",
+                    "parentId": 3,
+                    "level": 1,
+                    "cmmdyTypeId": 3,
+                    "image": {
+                        "wapSmallPic": null,
+                        "wapBigPic": null,
+                        "pcSmallPic": null,
+                        "pcBigPic": null
+                    }
+                },
+                {
+                    "id": 463,
+                    "name": "后盖宝",
+                    "parentId": 3,
+                    "level": 1,
+                    "cmmdyTypeId": 3,
+                    "image": {
+                        "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1540448285590hd_120x120.jpg",
+                        "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1540448285590hd_480x480.jpg",
+                        "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1540448290564hd_156x50.jpg",
+                        "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1540448290564hd_312x100.jpg"
+                    }
+                },
+                {
+                    "id": 464,
+                    "name": "V享无忧",
+                    "parentId": 3,
+                    "level": 1,
+                    "cmmdyTypeId": 3,
+                    "image": {
+                        "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1540448320793hd_120x120.jpg",
+                        "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1540448320793hd_480x480.jpg",
+                        "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1540448325229hd_156x50.jpg",
+                        "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1540448325229hd_312x100.jpg"
+                    }
+                },
+                {
+                    "id": 13,
+                    "name": "延保",
+                    "parentId": 3,
+                    "level": 1,
+                    "cmmdyTypeId": 3,
+                    "image": {
+                        "wapSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530524983093hd_120x120.jpg",
+                        "wapBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530524983093hd_480x480.jpg",
+                        "pcSmallPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530524988434hd_156x50.jpg",
+                        "pcBigPic": "https://shopstatic.vivo.com.cn/vivoshop/category/1530524988434hd_312x100.jpg"
+                    }
+                }
+            ],
+            "firstId": 3,
+            "secondId": null
+        }
+    }
+}

@@ -1,0 +1,152 @@
+.regis {
+    height: 100%;
+    width: 100%;
+    background: #F7F7F7;
+    overflow: hidden;
+
+    .register {
+        height: 670px;
+        width: 860px;
+        margin: 80px auto;
+        // padding: 80px auto;
+        background: #FFFFFF;
+
+
+        .section {
+            overflow: hidden;
+
+            // logo区域
+            .logo-area {
+                width: 100%;
+                height: 42px;
+                margin: 60px auto;
+                text-align: center;
+
+                img {
+                    width: 160px;
+                    height: 42px;
+                }
+            }
+
+            //    帐号注册
+            .title-item {
+                width: 100%;
+                height: 35px;
+                text-align: center;
+
+                .title {
+                    //    margin: 0 auto;
+                    font-size: 22px;
+                }
+            }
+
+            .outer-box {
+                height: 248px;
+                width: 360px;
+                margin: 0 auto;
+                margin-top: 60px;
+                margin-bottom: 100px;
+
+                // 用户名和密码框
+                .inner-box {
+                    height: 100%;
+                    width: 100%;
+
+                    .country-box {
+                        width: 100%;
+                        height: 48px;
+                        border: 1px solid #dedfe0;
+                        line-height: 48px;
+                        margin-bottom: 30px;
+
+
+                        .show-country {
+                            position: relative;
+                            padding-left: 10px;
+                            cursor: pointer;
+
+                            .countrys {
+                                display: none;
+
+                            }
+
+                            .arrow {
+                                // margin: 0 auto;
+                                float: left;
+                                width: 100%;
+                                height: 47px;
+                                line-height: 48px;
+                                color: #a9aB2F;
+                                border: none;
+                                outline: none;
+                            }
+                        }
+
+                        //    提示用户注册的信息
+                        .hint_user {
+                            display: none;
+                            margin-top: 52px;
+                            font-size: 14px;
+                            color: #999;
+                            line-height: 19px;
+
+                        }
+                    }
+
+
+
+                    .password {
+                        margin-top: 15px;
+                        width: 100%;
+                        height: 48px;
+                        border: 1px solid #dedfe0;
+                        line-height: 48px;
+                        margin-bottom: 30px;
+
+
+                        .password_inset {
+                            float: left;
+                            width: 97%;
+                            height: 48px;
+                            color: #a9aB2F;
+                            font-size: 14px;
+                            padding-left: 10px;
+                            border: none;
+                            outline: none;
+                        }
+
+                        // 密码提示
+                        .hint_pass {
+                            display: none;
+                            margin-top: 52px;
+                            font-size: 14px;
+                            color: #999;
+                            line-height: 19px;
+                        }
+                    }
+
+
+                }
+
+
+                // 勾选确定框
+                .plackfoot_box {
+                    margin-top: 20px;
+                    width: 100%;
+                }
+
+                .os_pc_btn {
+                    height: 48px;
+                    width: 100%;
+                    background: #456FFF;
+                    margin-top: 20px;
+                    line-height: 48px;
+                    text-align: center;
+                    color: #FFFFFF;
+                    font-size: 17px;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}

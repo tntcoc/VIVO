@@ -1,0 +1,35 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Document</title><link rel="stylesheet" href="../sass/base.min.css"><link rel="stylesheet" href="../sass/header.min.css"><script src="../js/jquery-1.9.1.min.js"></script></head><body><!-- <embed type="text/html" width="100%" height="100px" overflow-x: hidden; overflow-y: hidden; src="header.html" /> --><!-- <embed type="text/html" width="100%" height="522px" src="banner.html" /> --><div id="page01"></div><div id="page02"></div><div id="page03" style="overflow-y: hidden;"></div><div id="page04"></div><script>$("#page01").load("../html/header.html");
+        $("#page02").load("../html/banner.html");
+        $("#page03").load("../html/main.html");
+        $("#page04").load("../html/footer.html");</script><script>console.log("json++++++++++++++++++");
+        window.onload = function () {
+            let url = "../json/data02.json";
+            let request = new XMLHttpRequest();
+            request.open("get", url);
+            request.send(null);
+            request.onload = function () {
+                if (request.status == 200) {
+                    let json = JSON.parse(request.responseText);
+                    console.log(json.data.navigateVos);
+                    console.log(json.data.navigateVos[0]);
+                    console.log(json.data.navigateVos[0].firstCategory); //二级菜单的手机
+                    console.log(json.data.navigateVos[0].subCategories); //二级菜单的手机里面的东西
+
+                    let ul = document.getElementById("h_n_phones");
+                    let firstCategory = json.data.navigateVos;
+                    console.log(firstCategory);
+                    for (var i = 0; i < firstCategory.length; i++) {
+                        // console.log(json[i].navigateVos);
+                        // console.log(firstCategory[i]);
+                        console.log(firstCategory[i].firstCategory);
+                        console.log(firstCategory[i].firstCategory.id);
+                        // let li = document.createElement("li");
+                        // ul.innerHTML =
+                        //     `<li data-id=${firstCategory[i].firstCategory.id}>
+                        //         <a href="${firstCategory[i].firstCategory.link}" class="category-name">${firstCategory[i].firstCategory.name}</a>
+                        //     </li>`
+                    }
+                }
+            }
+
+        }</script></body></html>

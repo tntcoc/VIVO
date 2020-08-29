@@ -1,0 +1,257 @@
+.big_box {
+    height: 100%;
+    width: 100%;
+
+    .banner {
+        width: 100%;
+        height: 780px;
+        background: rgb(225, 236, 254);
+        text-align: center;
+        display: flex;
+        justify-content: center;
+
+
+        .banner_logo {
+            // display: block;
+            width: 1200px;
+            height: 780px;
+            position: absolute;
+        }
+
+        .layout {
+            box-sizing: border-box;
+            width: 420px;
+            height: 670px;
+            position: relative;
+            background: #FFFFFF;
+            top: 75px;
+            left: 390px;
+            padding: 30px 20px;
+
+            .inner_box {
+                overflow: hidden;
+
+                // logo区域
+                .logo_area {
+                    height: 42px;
+                    width: 160px;
+                    text-align: center;
+                    margin: 0 auto;
+
+                    .logo_img {
+                        height: 42px;
+                        width: 160px;
+                    }
+                }
+
+                .title {
+                    height: 30px;
+                    width: 360px;
+                    font-size: 19px;
+                    text-align: center;
+                    margin: 0 auto;
+                    margin-top: 15px;
+
+                }
+
+                // 短信登录
+                .toggle_module {
+                    height: 22px;
+                    width: 360px;
+                    // margin: 0 auto;
+                    margin-top: 20px;
+                    // float: right;
+                    // justify-content: right;
+                    padding-left: 160px;
+                }
+
+                .input_box {
+                    width: 360px;
+                    height: 111px;
+                    margin: 0 auto;
+                    // overflow: hidden;
+                    // float: left;
+
+                    // 用户名输入框
+                    .username {
+                        height: 48px;
+                        width: 360px;
+                        margin-top: 15px;
+                        margin-bottom: 25px;
+                        border: 1px solid #999;
+
+
+                        #username {
+                            border: none;
+                            outline: none;
+                            height: 48px;
+                            width: 345px;
+                            padding-left: 15px;
+                            font-size: 16px;
+
+
+                        }
+
+                        // 错误提示
+                        .mistk_username {
+                            font-size: 14px;
+                            color: #999;
+                            display: none;
+                            float: left;
+                            padding-left: 20px;
+
+                        }
+                    }
+
+                    // 密码框输入
+                    .password {
+                        overflow: hidden;
+                        border: 1px solid #999;
+                        height: 48px;
+                        width: 360px;
+                        margin-top: 15px;
+                        margin-bottom: 25px;
+
+
+                        #password {
+                            border: none;
+                            outline: none;
+                            height: 48px;
+                            width: 345px;
+                            padding-left: 15px;
+                            font-size: 16px;
+                            border: none;
+
+                        }
+
+                        // 错误提示
+                        .mistk_password {
+                            display: none;
+                            float: left;
+                            padding-left: 20px;
+                            font-size: 14px;
+                            color: #999;
+                        }
+                    }
+                }
+
+                // 手机号登录
+                .phone_login {
+                    width: 360px;
+                    height: 22px;
+                    margin: 0 auto;
+                    margin-top: 42px;
+
+                    .phone_login_in {
+                        float: left;
+                    }
+
+                    .check_box {
+                        float: right;
+                        // margin-right: ;
+                    }
+                }
+
+                // 登录框
+                .login_btn {
+                    height: 48px;
+                    width: 360px;
+                    margin: 0 auto;
+                    margin-top: 20px;
+                    line-height: 48px;
+                    background: #456fff;
+
+                    a {
+                        color: #FFFFFF;
+                        font-size: 17px;
+
+                    }
+                }
+
+                // 注册按键
+                .register_btn {
+                    height: 48px;
+                    width: 360px;
+                    margin: 0 auto;
+                    margin-top: 20px;
+                    line-height: 48px;
+                    background: #FFFFFF;
+                    border: 1px solid #456fff;
+
+                    a {
+                        color: #456fff;
+                        font-size: 17px;
+                    }
+                }
+
+                // 提示信息
+                .hit3 {
+                    margin-top: 15px;
+                    font-size: 13px;
+                    color: #999;
+                }
+
+                // 忘记密码
+                .for_get_pwd {
+                    height: 22px;
+                    width: 360px;
+                    margin: 0 auto;
+                    margin-top: 20px;
+
+                    span {
+                        font-size: 14px;
+                        color: #666;
+                        text-align: center;
+                        margin-top: 20px;
+                    }
+                }
+
+                // 其它登录方式
+                .other_way_login {
+                    width: 360px;
+                    height: 20px;
+                    margin: 0 auto;
+
+                    .o_title {
+                        position: relative;
+                        margin-top: 30px;
+                        color: #999;
+                        font-size: 13px;
+                        text-align: center;
+
+                        &::before,
+                        &::after {
+                            content: "";
+                            width: 130px;
+                            height: 1px;
+                            background-color: #ccc;
+                            position: absolute;
+                            top: 50%;
+                        }
+
+                        &::before {
+                            left: 0px;
+                        }
+
+                        &::after {
+                            right: 0px;
+                        }
+                    }
+                }
+
+                // 图标
+
+                .icon_box {
+                    margin: 0 auto;
+                    margin-top: 5px;
+                    height: 31px;
+                    width: 360px;
+                    display: flex;
+                    justify-content: space-around;
+                    // justify-content: space-around;
+                }
+
+            }
+        }
+    }
+}

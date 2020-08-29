@@ -1,0 +1,380 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "commoditySpu": {
+            "id": 10002225,
+            "spuName": "iQOO Neo3",
+            "shortName": "",
+            "category": {
+                "id": 595,
+                "name": null
+            },
+            "brand": {
+                "id": 8,
+                "name": null
+            },
+            "platform": {
+                "code": "100000",
+                "name": ""
+            },
+            "vendor": {
+                "id": 6,
+                "name": null
+            },
+            "type": {
+                "id": 1,
+                "name": null
+            },
+            "keywords": "",
+            "serviceTips": [
+                "顺丰极速达",
+                "7天包退换",
+                "全国联保",
+                "正品保障"
+            ],
+            "giftSign": 0,
+            "svcType": null,
+            "proxySale": 0
+        },
+        "defaultSkuId": 104558,
+        "afterSale": {
+            "imgUrl": null,
+            "detail": null
+        },
+        "partsRecomms": [
+            {
+                "id": 104140,
+                "name": "iQOO Neo3 硅胶保护壳 能量灰",
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/34/10002434_1587634802571_250x250.png",
+                "salePrice": 49,
+                "marketPrice": 49,
+                "url": "/product/10002434?skuId=104140"
+            },
+            {
+                "id": 104435,
+                "name": "iQOO Neo3 原装保护膜",
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/55/10002555_1590201444014_250x250.png",
+                "salePrice": 29,
+                "marketPrice": 29,
+                "url": "/product/10002555?skuId=104435"
+            },
+            {
+                "id": 101409,
+                "name": "vivo 4A Type-C数据线",
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/30/10001130_1589354019069_250x250.png",
+                "salePrice": 59,
+                "marketPrice": 59,
+                "url": "/product/10001130?skuId=101409"
+            },
+            {
+                "id": 100683,
+                "name": "vivo 44W超快闪充充电器",
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/38/10000538_1591686802882_250x250.png",
+                "salePrice": 119,
+                "marketPrice": 119,
+                "url": "/product/10000538?skuId=100683"
+            },
+            {
+                "id": 104184,
+                "name": "vivo 33W 10000mAh 双向闪充移动电源 云峰白",
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10001648_1588037708612_250x250.png",
+                "salePrice": 269,
+                "marketPrice": 269,
+                "url": "/product/10001648?skuId=104184"
+            },
+            {
+                "id": 102016,
+                "name": "vivo TWS Earphone 真无线蓝牙耳机 星际蓝",
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1588768504197_250x250.png",
+                "salePrice": 699,
+                "marketPrice": 699,
+                "url": "/product/10001518?skuId=102016"
+            },
+            {
+                "id": 104130,
+                "name": "iQOO 影音耳机 极速黄",
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10002422_1587537238055_250x250.png",
+                "salePrice": 129,
+                "marketPrice": 129,
+                "url": "/product/10002422?skuId=104130"
+            },
+            {
+                "id": 105157,
+                "name": "iQOO 闪电游戏手柄 黑黄",
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/72/10002872_1591952135411_250x250.png",
+                "salePrice": 199,
+                "marketPrice": 199,
+                "url": "/product/10002872?skuId=105157"
+            }
+        ],
+        "similarRecomms": [
+            {
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1582525194561_250x250.png",
+                "name": "iQOO 3 5G版 8GB+128GB 驭影黑",
+                "salePrice": 3498,
+                "marketPrice": 3498,
+                "url": "/product/10001922?skuId=102942",
+                "id": 102942,
+                "brief": null
+            },
+            {
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191537_250x250.png",
+                "name": "iQOO 3 5G版 8GB+256GB 流光银",
+                "salePrice": 3698,
+                "marketPrice": 3698,
+                "url": "/product/10001922?skuId=103542",
+                "id": 103542,
+                "brief": null
+            },
+            {
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/03/10002503_1589799933269_250x250.png",
+                "name": "iQOO Z1 5G版 8GB+128GB 太空蓝",
+                "salePrice": 2498,
+                "marketPrice": 2498,
+                "url": "/product/10002503?skuId=104235",
+                "id": 104235,
+                "brief": null
+            },
+            {
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/42/10002842_1591184156694_250x250.png",
+                "name": "vivo X50 Pro 5G版 8GB+256GB 黑镜",
+                "salePrice": 4698,
+                "marketPrice": 4698,
+                "url": "/product/10002842?skuId=105104",
+                "id": 105104,
+                "brief": null
+            }
+        ],
+        "recommendList": [
+            {
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1582525194561_250x250.png",
+                "name": "iQOO 3 5G版 8GB+128GB 驭影黑",
+                "salePrice": 3498,
+                "marketPrice": 3498,
+                "url": "/product/10001922?skuId=102942",
+                "id": 102942,
+                "brief": null
+            },
+            {
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/22/10001922_1584582191537_250x250.png",
+                "name": "iQOO 3 5G版 8GB+256GB 流光银",
+                "salePrice": 3698,
+                "marketPrice": 3698,
+                "url": "/product/10001922?skuId=103542",
+                "id": 103542,
+                "brief": null
+            },
+            {
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/03/10002503_1589799933269_250x250.png",
+                "name": "iQOO Z1 5G版 8GB+128GB 太空蓝",
+                "salePrice": 2498,
+                "marketPrice": 2498,
+                "url": "/product/10002503?skuId=104235",
+                "id": 104235,
+                "brief": null
+            },
+            {
+                "imgUrl": "https://shopstatic.vivo.com.cn/vivoshop/commodity/42/10002842_1591184156694_250x250.png",
+                "name": "vivo X50 Pro 5G版 8GB+256GB 黑镜",
+                "salePrice": 4698,
+                "marketPrice": 4698,
+                "url": "/product/10002842?skuId=105104",
+                "id": 105104,
+                "brief": null
+            }
+        ],
+        "specItem": {
+            "specMain": [
+                "0",
+                "1"
+            ],
+            "specMainSeq": {
+                "0": "版本",
+                "1": "颜色"
+            },
+            "skuSpecList": [
+                {
+                    "sequences": {
+                        "0": "3",
+                        "1": "3"
+                    },
+                    "skuId": 105127
+                },
+                {
+                    "sequences": {
+                        "0": "2",
+                        "1": "3"
+                    },
+                    "skuId": 104558
+                },
+                {
+                    "sequences": {
+                        "0": "1",
+                        "1": "2"
+                    },
+                    "skuId": 104152
+                },
+                {
+                    "sequences": {
+                        "0": "3",
+                        "1": "1"
+                    },
+                    "skuId": 104147
+                },
+                {
+                    "sequences": {
+                        "0": "4",
+                        "1": "1"
+                    },
+                    "skuId": 104148
+                },
+                {
+                    "sequences": {
+                        "0": "2",
+                        "1": "2"
+                    },
+                    "skuId": 103651
+                },
+                {
+                    "sequences": {
+                        "0": "1",
+                        "1": "1"
+                    },
+                    "skuId": 104149
+                },
+                {
+                    "sequences": {
+                        "0": "2",
+                        "1": "1"
+                    },
+                    "skuId": 103650
+                },
+                {
+                    "sequences": {
+                        "0": "1",
+                        "1": "3"
+                    },
+                    "skuId": 105129
+                },
+                {
+                    "sequences": {
+                        "0": "3",
+                        "1": "2"
+                    },
+                    "skuId": 104150
+                },
+                {
+                    "sequences": {
+                        "0": "4",
+                        "1": "3"
+                    },
+                    "skuId": 105128
+                },
+                {
+                    "sequences": {
+                        "0": "4",
+                        "1": "2"
+                    },
+                    "skuId": 104151
+                }
+            ],
+            "specItemSeq": {
+                "0": [
+                    {
+                        "name": "5G全网通版 12GB+128GB",
+                        "value": "",
+                        "valueExt": ""
+                    },
+                    {
+                        "name": "5G全网通版 8GB+128GB",
+                        "value": "",
+                        "valueExt": ""
+                    },
+                    {
+                        "name": "5G全网通版 8GB+256GB",
+                        "value": "",
+                        "valueExt": ""
+                    },
+                    {
+                        "name": "5G全网通版 6GB+128GB",
+                        "value": "",
+                        "valueExt": ""
+                    }
+                ],
+                "1": [
+                    {
+                        "name": "青空蓝",
+                        "value": "#3c43dd",
+                        "valueExt": "#21f0ff"
+                    },
+                    {
+                        "name": "夜幕黑",
+                        "value": "#606060",
+                        "valueExt": "#0e1ba1"
+                    },
+                    {
+                        "name": "极昼",
+                        "value": "#e9f3ff",
+                        "valueExt": "#d1fdf7"
+                    }
+                ]
+            }
+        },
+        "services": {
+            "brokenSvcs": [
+                {
+                    "id": 4436,
+                    "name": "一年碎屏宝-129元",
+                    "type": 1,
+                    "salePrice": 129,
+                    "marketPrice": 129,
+                    "intro": ""
+                }
+            ],
+            "extendSvcs": null,
+            "backCoverSvcs": [
+                {
+                    "id": 5626,
+                    "name": "一年后盖宝-79元",
+                    "type": 3,
+                    "salePrice": 79,
+                    "marketPrice": 79,
+                    "intro": ""
+                }
+            ],
+            "packSvcs": null,
+            "renewalSvcs": [
+                {
+                    "id": 105096,
+                    "name": "焕新宝-259元",
+                    "type": 7,
+                    "salePrice": 199,
+                    "marketPrice": 259,
+                    "intro": "1年意外保修+6个月保值换新，一年内提供1次意外损坏的免费整机维修服务，满6个月起可享旧机半价回收的优惠换新服务。"
+                }
+            ]
+        },
+        "zeroStoreSkuIds": [
+            105128
+        ],
+        "actHasStoreSkuIds": [],
+        "downSkuIds": [],
+        "fullpaySkuIdSet": [],
+        "recycleDesc": null,
+        "recycleUrl": "https://topic.vivo.com.cn/activity/link/recyclei",
+        "common": {
+            "currentTime": 1598518013138,
+            "surverySwitch": "0"
+        },
+        "crumbs": {
+            "categoryVo": {
+                "id": 595,
+                "name": "iQOO Neo3"
+            },
+            "thirdCategoryName": "iQOO Neo3"
+        },
+        "normalLimit": 5,
+        "redirectSpuInfo": null
+    }
+}

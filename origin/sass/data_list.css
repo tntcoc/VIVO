@@ -1,0 +1,107 @@
+.data_list01 {
+  position: relative;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.data_list01 .datalist_01 {
+  zoom: 1;
+  width: 101%;
+}
+
+.data_list01 .datalist_01 .spu-item {
+  float: left;
+  margin-right: 11px;
+  width: 292px;
+  height: 340px;
+  padding-top: 40px;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 10px;
+  font-size: 0;
+  text-align: center;
+  background-color: #fff;
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+}
+
+.data_list01 .datalist_01 .spu-item a {
+  display: block;
+  position: relative;
+  z-index: 1;
+}
+
+.data_list01 .datalist_01 .spu-item a .crner-good img {
+  background-position: 100% 0;
+  right: 60px;
+  position: absolute;
+  z-index: 1;
+  top: -7px;
+  width: 47px;
+  height: 47px;
+  background-repeat: no-repeat;
+}
+
+.data_list01 .datalist_01 .spu-item a .figure {
+  display: block;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.data_list01 .datalist_01 .spu-item a .figure img {
+  display: block;
+  width: 180px;
+  height: 180px;
+  border: 0;
+}
+
+.data_list01 .datalist_01 .spu-item a .spu-info {
+  height: 104px;
+  width: 180px;
+  margin: 20px auto 0;
+}
+
+.data_list01 .datalist_01 .spu-item a .spu-info p {
+  text-align: center;
+  overflow: hidden;
+}
+
+.data_list01 .datalist_01 .spu-item a .spu-info .name {
+  margin: 0 0 10px 0;
+  color: #000;
+  font-size: 16px;
+  height: 20px;
+  line-height: 20px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.data_list01 .datalist_01 .spu-item a .spu-info .feature {
+  margin: 0 0 23px;
+  height: 35px;
+  color: #333;
+  font-size: 12px;
+  line-height: 18px;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+.data_list01 .datalist_01 .spu-item a .spu-info .feature .sale-point {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  margin-left: 0.5em;
+}
+
+.data_list01 .datalist_01 .spu-item a .spu-info .price {
+  color: #f51919;
+  font-size: 16px;
+  line-height: 1;
+}
